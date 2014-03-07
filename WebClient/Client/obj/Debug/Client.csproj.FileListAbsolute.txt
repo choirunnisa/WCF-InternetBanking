@@ -1,0 +1,53 @@
+C:\Users\choirunnisa\Documents\Visual Studio 2012\Projects\AccountService\Client\bin\Client.dll
+C:\Users\choirunnisa\Documents\Visual Studio 2012\Projects\AccountService\Client\bin\Client.pdb
+C:\Users\choirunnisa\Documents\Visual Studio 2012\Projects\AccountService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Documents\Visual Studio 2012\Projects\AccountService\Client\obj\Debug\Client.dll
+C:\Users\choirunnisa\Documents\Visual Studio 2012\Projects\AccountService\Client\obj\Debug\Client.pdb
+E:\Documents\lastBLOCK\Example\Internet Banking 2\Client\bin\Client.dll
+E:\Documents\lastBLOCK\Example\Internet Banking 2\Client\bin\Client.pdb
+E:\Documents\lastBLOCK\Example\Internet Banking 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Documents\lastBLOCK\Example\Internet Banking 2\Client\obj\Debug\Client.dll
+E:\Documents\lastBLOCK\Example\Internet Banking 2\Client\obj\Debug\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\Client\bin\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\Client\bin\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\Client\obj\Debug\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\Client\obj\Debug\Client.pdb
+C:\Users\usser\Desktop\Internet Banking 2\Client\bin\Client.dll
+C:\Users\usser\Desktop\Internet Banking 2\Client\bin\Client.pdb
+C:\Users\usser\Desktop\Internet Banking 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\usser\Desktop\Internet Banking 2\Client\obj\Debug\Client.dll
+C:\Users\usser\Desktop\Internet Banking 2\Client\obj\Debug\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\Client\bin\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\Client\bin\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\Client\obj\Debug\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\Client\obj\Debug\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\bin\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\bin\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.pdb
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.dll
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\bin\Client.dll
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\bin\Client.pdb
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.pdb
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking3client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\bin\Client.dll
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\bin\Client.pdb
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.dll
+C:\Users\usser\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\bin\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\bin\Client.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 client\Client\obj\Debug\Client.pdb

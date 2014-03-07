@@ -1,0 +1,23 @@
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountService\bin\Debug\AccountService.dll
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountService\bin\Debug\AccountService.pdb
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountService\obj\Debug\AccountService.csprojResolveAssemblyReference.cache
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountService\obj\Debug\AccountService.dll
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountService\obj\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountService\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountService\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountService\obj\Debug\AccountService.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountService\obj\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountService\obj\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountService\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountService\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountService\obj\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountService\obj\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountService\obj\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountService\obj\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountService\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountService\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountService\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountService\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountService\obj\Debug\AccountService.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountService\obj\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountService\obj\Debug\AccountService.pdb

@@ -1,0 +1,46 @@
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\bin\Debug\AccountServiceHost.exe
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\bin\Debug\AccountServiceHost.pdb
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\obj\Debug\AccountServiceHost.csprojResolveAssemblyReference.cache
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\bin\Debug\AccountService.dll
+c:\users\choirunnisa\documents\visual studio 2012\Projects\AccountService\AccountServiceHost\bin\Debug\AccountService.pdb
+E:\Documents\lastBLOCK\Example\Internet Banking 2\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+E:\Documents\lastBLOCK\Example\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+E:\Documents\lastBLOCK\Example\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\bin\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\bin\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\usser\Desktop\Internet Banking 2\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+C:\Users\usser\Desktop\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+C:\Users\usser\Desktop\Internet Banking 2\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\bin\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\bin\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking2\AccountServiceHost\obj\Debug\AccountServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\bin\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\bin\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\fixing\InternetBanking server bener\AccountServiceHost\obj\Debug\AccountServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\bin\Debug\AccountServiceHost.exe.config
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\obj\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\obj\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\bin\Debug\AccountServiceHost.exe
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\bin\Debug\AccountServiceHost.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\bin\Debug\AccountService.dll
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\bin\Debug\AccountService.pdb
+C:\Users\choirunnisa\Dropbox\Carlo - Nisa\InternetBanking4 server\AccountServiceHost\obj\Debug\AccountServiceHost.csprojResolveAssemblyReference.cache
